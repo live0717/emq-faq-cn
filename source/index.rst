@@ -10,6 +10,7 @@
    :maxdepth: 2
 
    general
+   security
 
 EMQ项目支持与联系:
 

@@ -18,6 +18,7 @@ Q：windows 启动报错::
     2、检查安装目录是否有空格
 
 Q:启动报错原因分析::
+
     返回错误、/lib64/libc.so.6:version `GLIBC-_2.14` not found (requried by /user/local/emqttd/erts-7.1/bin/escript)
     下载的包和安装操作系统不符
 
